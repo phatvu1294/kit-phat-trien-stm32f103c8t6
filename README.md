@@ -18,7 +18,9 @@ KIT phát triển trên lõi ARM Cortex-M3 STM32F103C8T6, hỗ trợ JTAG, SWD. 
 - Sử dụng với các IDE thông dụng như KeilC, STM32CubeIDE, ..., bên cạnh đó còn hỗ trợ sử dụng với Arduino IDE.
 
 ![KIT Phát Triển STM32F103C8T6](/images/image-02.png)
+
 ![KIT Phát Triển STM32F103C8T6](/images/image-03.png)
+
 ![KIT Phát Triển STM32F103C8T6](/images/image-04.png)
 
 ### Hướng dẫn nạp chương trình với Arduino IDE:
