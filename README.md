@@ -1,5 +1,5 @@
 # KIT phát triển STM32F103C8T6
-*KIT phát triển STM32F103C8T6 được vẽ trên Altium Designer*
+*KIT phát triển STM32F103C8T6 được vẽ trên Altium Designer 19*
 
 ### Giới thiệu
 KIT phát triển trên lõi ARM Cortex-M3 STM32F103C8T6, hỗ trợ JTAG, SWD. Trên mạch được tích hợp sẵn chip USB to Serial CH340G cho phép nạp/debug thông qua USART1 hoặc USART2.
