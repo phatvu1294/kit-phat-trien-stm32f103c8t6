@@ -1,4 +1,4 @@
-# KIT phát triển STM32F103C8T6
+# KIT phát triển STM32F103C8T6 (public)
 *KIT phát triển STM32F103C8T6 được vẽ trên Altium Designer 19*
 
 ### Giới thiệu
